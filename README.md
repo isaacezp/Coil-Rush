@@ -19,3 +19,5 @@ Engineered for performance, featuring a continuous 60fps canvas loop and modern 
 
 * **Cross-Platform:** Fluid scaling across desktop, as well as portrait and landscape mobile viewports.
 * **Accessibility:** Built-in reduced-motion support, automatic pause-on-hidden, and highly accessible control schemes.
+
+* **https://coil-rush-pi.vercel.app/**
